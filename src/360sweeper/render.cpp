@@ -149,6 +149,7 @@ void RenderCounter(int value, float startX, float startY, float tileWidthNDC, fl
 // -------------------------------------------------------
 // RenderRAM
 // -------------------------------------------------------
+// i did this a while back and the logic isnt made right. it is to fix
 void RenderRAM(int totalKB, float startX, float startY, float tileWidthNDC, float tileHeightNDC)
 {
     if (totalKB < 0)      totalKB = 0;
