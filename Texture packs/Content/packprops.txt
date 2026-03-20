@@ -1,0 +1,4 @@
+spacing=10
+letterWidth=20
+fontScale=1
+bgColor=118,118,118
