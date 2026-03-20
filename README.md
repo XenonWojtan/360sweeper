@@ -57,7 +57,7 @@ If you want to launch the game thru aurora or other custom dash make sure \Conte
 
 ## Building from Source
 
-> The game is closed source for now. Maybe I'll open source it in the future.
+> The game is closed source for now. I'll probably open source it in the near future.
 
 ---
 ## Contributing
