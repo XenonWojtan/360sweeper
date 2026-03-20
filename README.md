@@ -57,7 +57,13 @@ If you want to launch the game thru aurora or other custom dash make sure \Conte
 
 ## Building from Source
 
-> The game is closed source for now. I'll probably open source it in the near future.
+1. Install **Visual Studio 2010 Ultimate**
+2. Install the **Xbox 360 SDK** — make sure to select **Full Install** — VS 2010 Ultimate must be installed **BEFORE** for that option
+3. Download the source files from the [`src`](src/) folder
+4. Open `360sweeper.sln` in Visual Studio 2010 **as Administrator**
+5. Set the configuration to **Release**
+6. Build the solution
+7. Copy the **Content** folder next to the output `.xex` — grab from  [`texture packs`](Texture packs/)
 
 ---
 ## Contributing
